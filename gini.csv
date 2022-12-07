@@ -1,0 +1,15 @@
+﻿outlook,temp,humi,windy,class
+sunny,hot,high,weak,noplay
+sunny,hot,high,strong,noplay
+overcast,hot,high,weak,play
+rain,mild,high,weak,play
+rain,cool,normal,weak,play
+rain,cool,normal,strong,noplay
+overcast,cool,normal,strong,play
+sunny,mild,high,weak,noplay
+sunny,cool,normal,weak,play
+rain,mild,normal,strong,play
+sunny,mild,normal,strong,play
+overcast,mild,high,strong,play
+overcast,hot,normal,weak,play
+rain,mild,high,strong,noplay
